@@ -477,4 +477,10 @@ curse
 chide
 flaunt
 coddle
+humanoid
+scale
+torso
+growl
+mimetic
+grin
 
